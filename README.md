@@ -1,1 +1,3 @@
 # argiculture
+
+install git
